@@ -16,4 +16,4 @@ Este projeto foi desenvolvido como parte do curso de Desenvolvimento Web, utiliz
 💠 Bootstrap: Layout responsivo e componentes prontos.
 ⚙️ JavaScript: Funcionalidades interativas e dinâmicas.
 🌐 Visualize no GitHub Pages
-Acesse o projeto publicado através deste link: https://rayanecostadev.github.io/EstacaoComunidade/
+Acesse o projeto publicado através deste link: https://rayanecostadev.github.io/EstacaoComunidade/](https://rayanecostadev.github.io/estacaocomunidade/
